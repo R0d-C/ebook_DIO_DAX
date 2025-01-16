@@ -1,3 +1,11 @@
+<p align="center">
+<img 
+    src="./Assets/capa.png"
+    width="400"  
+/>
+</p>
+
+
 # Projeto EBOOK Gerado por I.A.s
 
 
