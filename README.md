@@ -9,7 +9,7 @@
 # **Projeto EBOOK Gerado por I.A.s**
 
 
->ℹ️ **NOTE:** Este é o repositório desenvolvido durante curso  na plataforma da [DIO](https://dio.me)
+>ℹ️ **NOTA:** Este é o repositório desenvolvido durante curso  na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, todos os prompts
 seguem abaixo.
@@ -31,7 +31,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| gerar conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 
@@ -39,7 +39,7 @@ Microsoft Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :------: | -------------------------------------------------------------------------------------- |
-| conteúdo | Crie uma imagem com um notebook sobre uma mesa, na mesa deve ter canetas, calculadora, mouse e alguns gráficos referentes a dados na tela do notebook, deve estar escrito DAX no fundo e deve ter referencias a analise de dados |
+| gerar conteúdo | Crie uma imagem com um notebook sobre uma mesa, na mesa deve ter canetas, calculadora, mouse e alguns gráficos referentes a dados na tela do notebook, deve estar escrito DAX no fundo e deve ter referencias a analise de dados |
 
 
 
